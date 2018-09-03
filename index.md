@@ -65,7 +65,7 @@ Not to forget my participation in this [patent](https://patents.google.com/paten
 
 As a consulting company, Brioconcept is doing a lot of different things.
 
-During the 5 years I got to work there I worked mostly on 3 different projects.
+During the 5 years I got to work there I worked mostly on 4 different projects.
 
 ### [Personal locator](https://brioconcept.com/portfolio-items/personal-locator/)
 
@@ -84,16 +84,58 @@ and the [front-end](https://brioconcept.com/portfolio-items/web-interface-for-pe
 where the administrator would manage a pool of watches or the
 user would control his watch.
 
-### [Kontron Canada Inc.]
+### [Kontron Canada Inc.](https://www.kontron.com/)
+
+At Brioconcept we did mostly in-house projects for others but sometimes we also
+send engineers for help in other companies.
+
+That's what happened to me when I got to go work at Kontron.
+
+Basically they made a server motherboard for storage server company which
+was running what we refered to as the legacy BIOS. That is, the old style,
+assembly written one.
+
+![Motherboard](/assets/img/s-l1600 (2).jpg)
+
+At that time the market was slowly moving to the new UEFI BIOS and so they
+needed help for the port.
+
+This project got big really quickly and I ended up working on that project for
+about 1 year and a half.
+
+I got to do:
+
+* UEFI BIOS development and debugging
+* Legacy BIOS development and debugging
+* PCIe AER (Advranced Error Reporting) support implementation
+* IPMI/BMC development
+
+I also did on site support for this product at the end customer site at
+IBM XIV Storage System in Israel.
+
+### Animal feeding device
+
+This project is not on the Brioconcept's website so I'm not sure what happened
+to that one.
+
+This project was an inteligent feeding device for animal. The client wanted it
+to run Android as the base firmware so he could just hire "of the shelf" app
+developper as the device application.
+
+On this project I ported Android to the embedded platform.
+
+### Distech Controls Inc.
+
+Before working at Distech as an employe, I worked there as a consultant.
+
+I first got involved because they wanted to run Android on their new project
+and I had experience doing so.
+
+I ended up working there for about 2 years as a consultant before moving as a
+full time employe.
 
 
-
-
-
-
-
-
-
+# Personal projects
 
 
 
