@@ -1,6 +1,10 @@
-title: Minimal theme
+title: François Gervais
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description:
+  I'm an embedded firmware developer with interest in communication
+  protocols, computer security, machine learning and basic hardware development.
+show_downloads: false
+github:
+  is_project_page: false
 google_analytics:
 theme: jekyll-theme-minimal
