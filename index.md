@@ -55,34 +55,37 @@ millions. Lets just say it took a while.
 
 As part of my work at Distech, I got involved in the following patents:
 
+#### Granted
 
 [CA2919102C](https://patents.google.com/patent/CA2919102C) -
 Environment control device (ecd) and method for configuring the ecd to operate a wi-fi communication interface
-[granted: 2018-10-02]
+[2018-10-02]
 
 [US20170071015A1](https://patents.google.com/patent/US20170071015A1) -
 Environment control device providing a wi-fi hotspot for accessing the internet
-[granted: 2019-04-03]
+[2019-04-03]
 
 [US20190115082A1](https://patents.google.com/patent/US20190115082A1) -
 Memory device comprising flash memory and method for controlling a write speed of a bus transmitting data for storage on the flash memory
-[granted: 2020-03-17]
+[2020-03-17]
+
+#### Pending
 
 [US20190156195A1](https://patents.google.com/patent/US20190156195A1) -
 Computing device and method for inferring a predicted number of data chunks writable on a flash memory before wear out
-[pending | filed: 2017-11-21]
+[filed: 2017-11-21]
 
 [US20190155520A1](https://patents.google.com/patent/US20190155520A1) -
 Computing device and method for inferring a predicted number of physical blocks erased from a flash memory
-[pending | filed: 2017-11-21]
+[filed: 2017-11-21]
 
 [US20190182069A1](https://patents.google.com/patent/US20190182069A1) -
 Environment controller and method for inferring one or more commands for controlling an appliance taking into account room characteristics
-[pending | filed: 2017-12-12]
+[filed: 2017-12-12]
 
 [US20190179269A1](https://patents.google.com/patent/US20190179269A1) -
 Environment controller and method for inferring via a neural network one or more commands for controlling an appliance
-[pending | filed: 2017-12-12]
+[filed: 2017-12-12]
 
 [US20190179270A1](https://patents.google.com/patent/US20190179270A1) -
 Inference server and environment controller for inferring one or more commands for controlling an appliance taking into account room characteristics
@@ -90,31 +93,31 @@ Inference server and environment controller for inferring one or more commands f
 
 [US20190179268A1](https://patents.google.com/patent/US20190179268A1) -
 Inference server and environment controller for inferring via a neural network one or more commands for controlling an appliance
-[pending | filed: 2017-12-12]
+[filed: 2017-12-12]
 
 [US20190278242A1](https://patents.google.com/patent/US20190278242A1) -
 Training server and method for generating a predictive model for controlling an appliance
-[pending | filed: 2018-03-07]
+[filed: 2018-03-07]
 
 [US20190310589A1](https://patents.google.com/patent/US20190310589A1) -
 Neural network combining visible and thermal images for inferring environmental data of an area of a building
-[pending | filed: 2018-04-06]
+[filed: 2018-04-06]
 
 [US20190353366A1](https://patents.google.com/patent/US20190353366A1) -
 Method and environment controller using a neural network for bypassing a legacy environment control software module
-[pending | filed: 2018-05-16]
+[filed: 2018-05-16]
 
 [US20190379470A1](https://patents.google.com/patent/US20190379470A1) -
 Computing device and method using a neural network to infer a predicted state of a communication channel
-[pending | filed: 2018-06-08]
+[filed: 2018-06-08]
 
 [CA3022061A1](https://patents.google.com/patent/CA3022061A1) -
 Environment control device and method for inferring an optimal wireless data transfer rate using a neural network
-[pending | filed: 2018-10-25]
+[filed: 2018-10-25]
 
 [CA3022063A1](https://patents.google.com/patent/CA3022063A1) -
 Inference server and environment control device for inferring an optimal wireless data transfer date
-[pending | filed: 2018-10-25]
+[filed: 2018-10-25]
 
 [US20200184329A1](https://patents.google.com/patent/US20200184329A1) -
 Environment controller and method for improving predictive models used for controlling a temperature in an area
@@ -122,15 +125,15 @@ Environment controller and method for improving predictive models used for contr
 
 [US20200200423A1](https://patents.google.com/patent/US20200200423A1) -
 Computing device and method for inferring via a neural network a two-dimensional temperature mapping of an area
-[pending | filed: 2018-12-19]
+[filed: 2018-12-19]
 
 [CA3042813A1](https://patents.google.com/patent/CA3042813A1) -
 Method and environment controller for validating a predictive model of a neural network through interactions with the environment controller
-[pending | filed: 2019-05-09]
+[filed: 2019-05-09]
 
 [CA3061446A1](https://patents.google.com/patent/CA3061446A1) -
 Computing device and method for inferring an airflow of a vav appliance operating in an area of a building
-[pending | filed: 2019-11-13]
+[filed: 2019-11-13]
 
 ## [Brioconcept Consulting Inc.](https://brioconcept.com/)
 
