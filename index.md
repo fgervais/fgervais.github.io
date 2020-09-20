@@ -7,8 +7,8 @@ layout: default
 As part of my professional and personal time I use and produce different open
 source projects which can be found here:
 
-[GitHub](https://github.com/fgervais),
-[Open Hub](https://www.openhub.net/accounts/fgervais)
+* [Pull Requests](https://github.com/search?q=is%3Apr+author%3Afgervais) (GitHub)
+* [Open Hub](https://www.openhub.net/accounts/fgervais)
 
 I think open source software is a win for everybody and so I'm trying to
 contribute whenever I can. 
