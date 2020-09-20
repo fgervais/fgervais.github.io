@@ -2,46 +2,25 @@
 layout: default
 ---
 
-As a kid I was already pretty interested by electronic.
+# Open Source
 
-I remember looking at circuit boards coming from things I disassembled and
-wondering what all these components were used for.
+As part of my professional and personal time I use and produce different open
+source projects which can be found here:
 
-I got in touch with computers quite early in elementary school. At that time we
-had one computer for the whole class. I remember I was a bit afraid to go on it
-because our teacher told us we had to power on the screen first and then the
-computer or maybe it was the oposite. I've never been too sure of the proper
-order and I though I might break something.
+[GitHub](https://github.com/fgervais),
+[Open Hub](https://www.openhub.net/accounts/fgervais)
 
-Thinking about it now, I'm not sure if there was in fact a requirement or not.
-
-I got my first contact with the Internet in 6th grades. At that time it was 
-still mostly empty but it was a nice thing to just type something in the search
-engine and look at the results.
-
-In the middle of high school, my parents bought our first computers. I think it
-was a bit on the late side compared to others of my age. However I got to skip
-the dialup and go straight to broadband :)
-
-From there I got my fair share of time at the computer trying to understand all
-there is to know.
-
-I'm still working on that.
-
+I think open source software is a win for everybody and so I'm trying to
+contribute whenever I can. 
 
 # Professional experience
-
-Most of my past work has been around taking pieces and making something with
-them.
-
-As such, I think it gives me a wider scope but without any deep expertise like
-somebody who would do C++ for most of his career.
 
 ## [Distech Controls Inc.](http://www.distech-controls.com/en/ca/)
 
 Distech is a company that specialises in making HVAC products.
 
-As part of my daily work, I got to work on two Android based products,
+As part of my daily work, I got to work on a couple Linux and Android based products,
+[Apex](https://www.distech-controls.com/en/eclypse),
 [Eclypse](http://www.distech-controls.com/en/ca/products/eclypse/) and 
 [Horyzon-C](http://www.distech-controls.com/en/ca/products/displays/).
 
@@ -53,13 +32,105 @@ On these products, I've been involved in quite a few things including:
 * Source code management
 * Automated builds
 
-I also helped in getting the FIPS 140-2 certification.
-([line 12](https://csrc.nist.gov/Projects/Cryptographic-Algorithm-Validation-Program/Validation/Validation-List/SHA-3))
+### FIPS 140-2
+On the Eclypse product, we had to get the FIPS 140-2 certification which I
+participated in getting: 
+[3106](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/3106),
+[3046](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/3046)
 
-and got to debug some pretty [interresting](https://github.com/qca/open-ath9k-htc-firmware/commit/97217c1250772c3c6dbba8b00bab70df6dbd22da#diff-d89a76e909ac97f43228c098ed8facb3)
+### Noteworthy Bugs
+
+As part of my work I got to debug some pretty
+[interresting](https://github.com/qca/open-ath9k-htc-firmware/commit/97217c1250772c3c6dbba8b00bab70df6dbd22da#diff-d89a76e909ac97f43228c098ed8facb3)
 [problems](https://www.spinics.net/lists/linux-usb/msg162253.html).
 
-Not to forget my participation in this [patent](https://patents.google.com/patent/US20170071015A1/en?inventor=francois+gervais&oq=francois+gervais).
+Along with a co-worker, we got to the bottom of an issue with the KSZ8863 chip:
+[Receiver error in 100BASE-TX mode following Soft Power Down](http://ww1.microchip.com/downloads/en/DeviceDoc/KSZ8863-Errata-DS80000829A.pdf).
+
+This was quite an interesting one. You can imagine what a company tells you when
+you are trying to tell them there is a bug with a long running chip sold by the
+millions. Lets just say it took a while.
+
+### Patents
+
+As part of my work at Distech, I got involved in the following patents:
+
+
+[CA2919102C](https://patents.google.com/patent/CA2919102C) -
+Environment control device (ecd) and method for configuring the ecd to operate a wi-fi communication interface
+[granted: 2018-10-02]
+
+[US20170071015A1](https://patents.google.com/patent/US20170071015A1) -
+Environment control device providing a wi-fi hotspot for accessing the internet
+[granted: 2019-04-03]
+
+[US20190115082A1](https://patents.google.com/patent/US20190115082A1) -
+Memory device comprising flash memory and method for controlling a write speed of a bus transmitting data for storage on the flash memory
+[granted: 2020-03-17]
+
+[US20190156195A1](https://patents.google.com/patent/US20190156195A1) -
+Computing device and method for inferring a predicted number of data chunks writable on a flash memory before wear out
+[pending | filed: 2017-11-21]
+
+[US20190155520A1](https://patents.google.com/patent/US20190155520A1) -
+Computing device and method for inferring a predicted number of physical blocks erased from a flash memory
+[pending | filed: 2017-11-21]
+
+[US20190182069A1](https://patents.google.com/patent/US20190182069A1) -
+Environment controller and method for inferring one or more commands for controlling an appliance taking into account room characteristics
+[pending | filed: 2017-12-12]
+
+[US20190179269A1](https://patents.google.com/patent/US20190179269A1) -
+Environment controller and method for inferring via a neural network one or more commands for controlling an appliance
+[pending | filed: 2017-12-12]
+
+[US20190179270A1](https://patents.google.com/patent/US20190179270A1) -
+Inference server and environment controller for inferring one or more commands for controlling an appliance taking into account room characteristics
+[pending: filed: 2017-12-12]
+
+[US20190179268A1](https://patents.google.com/patent/US20190179268A1) -
+Inference server and environment controller for inferring via a neural network one or more commands for controlling an appliance
+[pending | filed: 2017-12-12]
+
+[US20190278242A1](https://patents.google.com/patent/US20190278242A1) -
+Training server and method for generating a predictive model for controlling an appliance
+[pending | filed: 2018-03-07]
+
+[US20190310589A1](https://patents.google.com/patent/US20190310589A1) -
+Neural network combining visible and thermal images for inferring environmental data of an area of a building
+[pending | filed: 2018-04-06]
+
+[US20190353366A1](https://patents.google.com/patent/US20190353366A1) -
+Method and environment controller using a neural network for bypassing a legacy environment control software module
+[pending | filed: 2018-05-16]
+
+[US20190379470A1](https://patents.google.com/patent/US20190379470A1) -
+Computing device and method using a neural network to infer a predicted state of a communication channel
+[pending | filed: 2018-06-08]
+
+[CA3022061A1](https://patents.google.com/patent/CA3022061A1) -
+Environment control device and method for inferring an optimal wireless data transfer rate using a neural network
+[pending | filed: 2018-10-25]
+
+[CA3022063A1](https://patents.google.com/patent/CA3022063A1) -
+Inference server and environment control device for inferring an optimal wireless data transfer date
+[pending | filed: 2018-10-25]
+
+[US20200184329A1](https://patents.google.com/patent/US20200184329A1) -
+Environment controller and method for improving predictive models used for controlling a temperature in an area
+[pending: filed: 2018-12-11]
+
+[US20200200423A1](https://patents.google.com/patent/US20200200423A1) -
+Computing device and method for inferring via a neural network a two-dimensional temperature mapping of an area
+[pending | filed: 2018-12-19]
+
+[CA3042813A1](https://patents.google.com/patent/CA3042813A1) -
+Method and environment controller for validating a predictive model of a neural network through interactions with the environment controller
+[pending | filed: 2019-05-09]
+
+[CA3061446A1](https://patents.google.com/patent/CA3061446A1) -
+Computing device and method for inferring an airflow of a vav appliance operating in an area of a building
+[pending | filed: 2019-11-13]
 
 ## [Brioconcept Consulting Inc.](https://brioconcept.com/)
 
@@ -80,19 +151,25 @@ also get access to fancy features like get an alert if the watch get in or out
 of a defined perimeter or if the watch get beyond a configured velocity.
 
 On this project I was in charge on the back-end where the watches would connect
-and the [front-end](https://brioconcept.com/portfolio-items/web-interface-for-personal-locator/)
-where the administrator would manage a pool of watches or the
+and the front-end where the administrator would manage a pool of watches or the
 user would control his watch.
+
+### Patents
+
+As part of my work at Brioconcept, I got involved in the following patent:
+
+[CA2848937C](https://patents.google.com/patent/CA2848937C) -
+Apparatus and methods for geolocating an individual with respect to a perimeter
 
 ### [Kontron Canada Inc.](https://www.kontron.com/)
 
 At Brioconcept we did mostly in-house projects for others but sometimes we also
-send engineers for help in other companies.
+sent engineers for help in other companies.
 
 That's what happened to me when I got to go work at Kontron.
 
 Basically they made a server motherboard for storage server company which
-was running what we refered to as the legacy BIOS. That is, the old style,
+was running what we refered to as the legacy BIOS i.e. the old style,
 assembly written one.
 
 ![Motherboard](/assets/img/s-l1600 (2).jpg)
@@ -115,9 +192,6 @@ IBM XIV Storage System in Israel.
 
 ### Animal feeding device
 
-This project is not on the Brioconcept's website so I'm not sure what happened
-to that one.
-
 This project was an inteligent feeding device for animal. The client wanted it
 to run Android as the base firmware so he could just hire "of the shelf" app
 developper as the device application.
@@ -133,136 +207,3 @@ and I had experience doing so.
 
 I ended up working there for about 2 years as a consultant before moving as a
 full time employe.
-
-
-# Personal projects
-
-
-
-
-
-
-
-
-
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
