@@ -44,10 +44,17 @@ As part of my work I got to debug some pretty
 [interresting](https://github.com/qca/open-ath9k-htc-firmware/commit/97217c1250772c3c6dbba8b00bab70df6dbd22da#diff-d89a76e909ac97f43228c098ed8facb3)
 [problems](https://www.spinics.net/lists/linux-usb/msg162253.html).
 
-Along with a co-worker, we got to the bottom of an issue with the KSZ8863 chip:
-[Receiver error in 100BASE-TX mode following Soft Power Down](http://ww1.microchip.com/downloads/en/DeviceDoc/KSZ8863-Errata-DS80000829A.pdf).
+#### Errata
 
-This was quite an interesting one. You can imagine what a company tells you when
+Along with a co-worker, we got to the bottom of two ASIC issues.
+
+First with the Microchip USB2412 USB hub:
+[Detach detection failure](/assets/pdf/USB2412-Errata-DS80000824A.pdf)
+
+Then with the Microchip/Micrel KSZ8863 Ethernet switch:
+[Receiver error in 100BASE-TX mode following Soft Power Down](/assets/pdf/KSZ8863-Errata-DS80000829A.pdf)
+
+Those were quite interesting ones. You can imagine what a company tells you when
 you are trying to tell them there is a bug with a long running chip sold by the
 millions. Lets just say it took a while.
 
