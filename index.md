@@ -19,7 +19,7 @@ Here is some of my free time projects.
 
 Thumbnail | Title | Description
 --- | --- | ---
-<a href="https://github.com/fgervais/leak-detector"><img src="https://raw.githubusercontent.com/fgervais/leak-detector/master/assets/img/board.jpg" width="100"> | [ESP32 Leak Detector](https://github.com/fgervais/leak-detector) | Detect leaks and report through an alarm and a phone notification
+<a href="https://github.com/fgervais/leak-detector" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/leak-detector/master/assets/img/board.jpg" width="100"> | [ESP32 Leak Detector](https://github.com/fgervais/leak-detector) | Detect leaks and report through an alarm and a phone notification
 
 # Professional experience
 
