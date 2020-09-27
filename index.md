@@ -13,6 +13,14 @@ source projects which can be found here:
 I think open source software is a win for everybody and so I'm trying to
 contribute whenever I can. 
 
+# Personal Projects
+
+Here is some of my free time projects.
+
+Project | Description
+--- | ---
+[ESP32 Leak Detector](https://github.com/fgervais/leak-detector) | Detect leaks and report through an alarm and a phone notification
+
 # Professional experience
 
 ## [Distech Controls Inc.](http://www.distech-controls.com/en/ca/)
