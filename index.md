@@ -15,9 +15,9 @@ contribute whenever I can.
 
 # Personal Projects
 
- | | 
---- | --- | ---
-<a href="https://github.com/fgervais/leak-detector" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/leak-detector/master/assets/img/board.jpg" width="150"> | [ESP32 Leak Detector](https://github.com/fgervais/leak-detector) | Detect leaks and report through an alarm and a phone notification
+Project | Description
+--- | ---
+<a href="https://github.com/fgervais/leak-detector" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/leak-detector/master/assets/img/board.jpg" width="200"> | Detect leaks and report through an alarm and a phone notification
 
 # Professional experience
 
