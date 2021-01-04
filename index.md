@@ -83,6 +83,10 @@ Environment control device providing a wi-fi hotspot for accessing the internet
 Memory device comprising flash memory and method for controlling a write speed of a bus transmitting data for storage on the flash memory
 [2020-03-17]
 
+[US20190179269A1](https://patents.google.com/patent/US20190179269A1) -
+Environment controller and method for inferring via a neural network one or more commands for controlling an appliance
+[2020-11-24]
+
 #### Pending
 
 [US20190156195A1](https://patents.google.com/patent/US20190156195A1) -
@@ -95,10 +99,6 @@ Computing device and method for inferring a predicted number of physical blocks 
 
 [US20190182069A1](https://patents.google.com/patent/US20190182069A1) -
 Environment controller and method for inferring one or more commands for controlling an appliance taking into account room characteristics
-[filed: 2017-12-12]
-
-[US20190179269A1](https://patents.google.com/patent/US20190179269A1) -
-Environment controller and method for inferring via a neural network one or more commands for controlling an appliance
 [filed: 2017-12-12]
 
 [US20190179270A1](https://patents.google.com/patent/US20190179270A1) -
