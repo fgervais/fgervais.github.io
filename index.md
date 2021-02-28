@@ -20,6 +20,7 @@ Project | Description
 <a href="https://github.com/fgervais/leak-detector" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/leak-detector/master/assets/img/complete.jpg" width="200"> | Detect leaks and report through an alarm and a phone notification
 <a href="https://github.com/fgervais/detergent-dispenser" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/detergent-dispenser/master/assets/img/installed.jpeg" width="200"> | Dispense a specific amount of detergent
 <a href="https://github.com/fgervais/esp32-wrover-breakout" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/esp32-wrover-breakout/master/assets/img/M2/with_breadboard_adapter.jpeg" width="200"> | My take on an ESP32 module
+<a href="https://github.com/fgervais/project-adafruit-3309-adapter" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-adafruit-3309-adapter/master/assets/img/zh/usage.jpeg" width="200"> | Adafruit 3309 JST ZH Adapter
 
 # Professional experience
 
