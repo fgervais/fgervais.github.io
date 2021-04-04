@@ -22,6 +22,7 @@ Project | Description
 <a href="https://github.com/fgervais/esp32-wrover-breakout" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/esp32-wrover-breakout/master/assets/img/M2/with_breadboard_adapter.jpeg" width="200"> | My take on an ESP32 module
 <a href="https://github.com/fgervais/project-adafruit-3309-adapter" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-adafruit-3309-adapter/master/assets/img/zh/blank.jpeg" width="200"> | Adafruit 3309 JST ZH Adapter
 <a href="https://github.com/fgervais/project-adafruit-3309-adapter#sh-version" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-adafruit-3309-adapter/master/assets/img/sh/overview.jpeg" width="200"> | Adafruit 3309 JST SH Adapter
+<a href="https://github.com/fgervais/project-julie-bed-lights" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-julie-bed-lights/master/assets/img/overview.jpg" width="200"> | RGB LED Controller
 
 # Professional experience
 
