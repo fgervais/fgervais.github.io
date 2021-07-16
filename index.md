@@ -88,31 +88,35 @@ Environment control device providing a wi-fi hotspot for accessing the internet
 Memory device comprising flash memory and method for controlling a write speed of a bus transmitting data for storage on the flash memory
 [2020-03-17]
 
+[US20190179268A1](https://patents.google.com/patent/US20190179268A1) -
+Inference server and environment controller for inferring via a neural network one or more commands for controlling an appliance
+[2020-11-17]
+
 [US20190179269A1](https://patents.google.com/patent/US20190179269A1) -
 Environment controller and method for inferring via a neural network one or more commands for controlling an appliance
 [2020-11-24]
 
-#### Pending
-
-[US20190156195A1](https://patents.google.com/patent/US20190156195A1) -
-Computing device and method for inferring a predicted number of data chunks writable on a flash memory before wear out
-[filed: 2017-11-21]
-
-[US20190155520A1](https://patents.google.com/patent/US20190155520A1) -
-Computing device and method for inferring a predicted number of physical blocks erased from a flash memory
-[filed: 2017-11-21]
+[US20190179270A1](https://patents.google.com/patent/US20190179270A1) -
+Inference server and environment controller for inferring one or more commands for controlling an appliance taking into account room characteristics
+[2021-01-19]
 
 [US20190182069A1](https://patents.google.com/patent/US20190182069A1) -
 Environment controller and method for inferring one or more commands for controlling an appliance taking into account room characteristics
-[filed: 2017-12-12]
+[2021-02-02]
 
-[US20190179270A1](https://patents.google.com/patent/US20190179270A1) -
-Inference server and environment controller for inferring one or more commands for controlling an appliance taking into account room characteristics
-[pending: filed: 2017-12-12]
+[US20190155520A1](https://patents.google.com/patent/US20190155520A1) -
+Computing device and method for inferring a predicted number of physical blocks erased from a flash memory
+[2021-03-23]
 
-[US20190179268A1](https://patents.google.com/patent/US20190179268A1) -
-Inference server and environment controller for inferring via a neural network one or more commands for controlling an appliance
-[filed: 2017-12-12]
+[US20190156195A1](https://patents.google.com/patent/US20190156195A1) -
+Computing device and method for inferring a predicted number of data chunks writable on a flash memory before wear out
+[2021-06-15]
+
+[US20190353366A1](https://patents.google.com/patent/US20190353366A1) -
+Method and environment controller using a neural network for bypassing a legacy environment control software module
+[2021-06-22]
+
+#### Pending
 
 [US20190278242A1](https://patents.google.com/patent/US20190278242A1) -
 Training server and method for generating a predictive model for controlling an appliance
@@ -121,10 +125,6 @@ Training server and method for generating a predictive model for controlling an 
 [US20190310589A1](https://patents.google.com/patent/US20190310589A1) -
 Neural network combining visible and thermal images for inferring environmental data of an area of a building
 [filed: 2018-04-06]
-
-[US20190353366A1](https://patents.google.com/patent/US20190353366A1) -
-Method and environment controller using a neural network for bypassing a legacy environment control software module
-[filed: 2018-05-16]
 
 [US20190379470A1](https://patents.google.com/patent/US20190379470A1) -
 Computing device and method using a neural network to infer a predicted state of a communication channel
