@@ -126,6 +126,10 @@ Training server and method for generating a predictive model for controlling an 
 Neural network combining visible and thermal images for inferring environmental data of an area of a building
 [filed: 2018-04-06]
 
+[US20190354877A1](https://patents.google.com/patent/US20190354877A1) -
+Method and environment controller for validating a predictive model of a neural network through interactions with the environment controller
+[filed: 2018-05-16]
+
 [US20190379470A1](https://patents.google.com/patent/US20190379470A1) -
 Computing device and method using a neural network to infer a predicted state of a communication channel
 [filed: 2018-06-08]
@@ -138,6 +142,10 @@ Environment control device and method for inferring an optimal wireless data tra
 Inference server and environment control device for inferring an optimal wireless data transfer date
 [filed: 2018-10-25]
 
+[US20200158369A1](https://patents.google.com/patent/US20200158369A1) -
+Computing device and method for inferring an airflow of a vav appliance operating in an area of a building
+[filed: 2018-11-20]
+
 [US20200184329A1](https://patents.google.com/patent/US20200184329A1) -
 Environment controller and method for improving predictive models used for controlling a temperature in an area
 [pending: filed: 2018-12-11]
@@ -146,13 +154,33 @@ Environment controller and method for improving predictive models used for contr
 Computing device and method for inferring via a neural network a two-dimensional temperature mapping of an area
 [filed: 2018-12-19]
 
-[CA3042813A1](https://patents.google.com/patent/CA3042813A1) -
-Method and environment controller for validating a predictive model of a neural network through interactions with the environment controller
-[filed: 2019-05-09]
+[US20200356302A1](https://patents.google.com/patent/US20200356302A1) -
+Method providing resilient execution of a service on a computing device
+[filed: 2019-05-08]
 
-[CA3061446A1](https://patents.google.com/patent/CA3061446A1) -
-Computing device and method for inferring an airflow of a vav appliance operating in an area of a building
-[filed: 2019-11-13]
+[US20200356385A1](https://patents.google.com/patent/US20200356385A1) -
+Computing device providing fail-safe execution of a service
+[filed: 2019-05-08]
+
+[US20200400333A1](https://patents.google.com/patent/US20200400333A1) -
+Environment controller and method for predicting temperature variations based on sound level measurements
+[filed: 2019-06-19]
+
+[US20200401092A1](https://patents.google.com/patent/US20200401092A1) -
+Environment controller and method for predicting co2 level variations based on sound level measurements
+[filed: 2019-06-19]
+
+[US20210116142A1](https://patents.google.com/patent/US20210116142A1) -
+Thermostat and method using a neural network to adjust temperature measurements
+[filed: 2019-10-22]
+
+[US20210034967A1](https://patents.google.com/patent/US20210034967A1) -
+Environment controller and methods for validating an estimated number of persons present in an area
+[filed: 2019-11-27]
+
+[US20210064968A1](https://patents.google.com/patent/US20210064968A1) -
+Training server and method for generating a predictive model of a neural network through distributed reinforcement learning
+[filed: 2019-11-27]
 
 ## [Brioconcept Consulting Inc.](https://brioconcept.com/)
 
