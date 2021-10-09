@@ -117,6 +117,10 @@ Computing device and method for inferring a predicted number of data chunks writ
 Method and environment controller using a neural network for bypassing a legacy environment control software module
 [2021-06-22]
 
+[US20200200423A1](https://patents.google.com/patent/US20200200423A1) -
+Computing device and method for inferring via a neural network a two-dimensional temperature mapping of an area
+[2021-08-03]
+
 #### Pending
 
 [US20190278242A1](https://patents.google.com/patent/US20190278242A1) -
@@ -150,10 +154,6 @@ Computing device and method for inferring an airflow of a vav appliance operatin
 [US20200184329A1](https://patents.google.com/patent/US20200184329A1) -
 Environment controller and method for improving predictive models used for controlling a temperature in an area
 [pending: filed: 2018-12-11]
-
-[US20200200423A1](https://patents.google.com/patent/US20200200423A1) -
-Computing device and method for inferring via a neural network a two-dimensional temperature mapping of an area
-[filed: 2018-12-19]
 
 [US20200356302A1](https://patents.google.com/patent/US20200356302A1) -
 Method providing resilient execution of a service on a computing device
