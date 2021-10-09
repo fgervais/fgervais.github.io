@@ -77,49 +77,49 @@ As part of my work at Distech, I got involved in the following patents:
 
 #### Granted
 
-[CA2919102C](https://patents.google.com/patent/CA2919102C) -
-Environment control device (ecd) and method for configuring the ecd to operate a wi-fi communication interface
-[2018-10-02]
-
-[US20170071015A1](https://patents.google.com/patent/US20170071015A1) -
-Environment control device providing a wi-fi hotspot for accessing the internet
-[2019-04-03]
-
-[US20190115082A1](https://patents.google.com/patent/US20190115082A1) -
-Memory device comprising flash memory and method for controlling a write speed of a bus transmitting data for storage on the flash memory
-[2020-03-17]
-
-[US20190179268A1](https://patents.google.com/patent/US20190179268A1) -
-Inference server and environment controller for inferring via a neural network one or more commands for controlling an appliance
-[2020-11-17]
-
-[US20190179269A1](https://patents.google.com/patent/US20190179269A1) -
-Environment controller and method for inferring via a neural network one or more commands for controlling an appliance
-[2020-11-24]
-
-[US20190179270A1](https://patents.google.com/patent/US20190179270A1) -
-Inference server and environment controller for inferring one or more commands for controlling an appliance taking into account room characteristics
-[2021-01-19]
-
-[US20190182069A1](https://patents.google.com/patent/US20190182069A1) -
-Environment controller and method for inferring one or more commands for controlling an appliance taking into account room characteristics
-[2021-02-02]
-
-[US20190155520A1](https://patents.google.com/patent/US20190155520A1) -
-Computing device and method for inferring a predicted number of physical blocks erased from a flash memory
-[2021-03-23]
-
-[US20190156195A1](https://patents.google.com/patent/US20190156195A1) -
-Computing device and method for inferring a predicted number of data chunks writable on a flash memory before wear out
-[2021-06-15]
+[US20200200423A1](https://patents.google.com/patent/US20200200423A1) -
+Computing device and method for inferring via a neural network a two-dimensional temperature mapping of an area
+[2021-08-03]
 
 [US20190353366A1](https://patents.google.com/patent/US20190353366A1) -
 Method and environment controller using a neural network for bypassing a legacy environment control software module
 [2021-06-22]
 
-[US20200200423A1](https://patents.google.com/patent/US20200200423A1) -
-Computing device and method for inferring via a neural network a two-dimensional temperature mapping of an area
-[2021-08-03]
+[US20190156195A1](https://patents.google.com/patent/US20190156195A1) -
+Computing device and method for inferring a predicted number of data chunks writable on a flash memory before wear out
+[2021-06-15]
+
+[US20190155520A1](https://patents.google.com/patent/US20190155520A1) -
+Computing device and method for inferring a predicted number of physical blocks erased from a flash memory
+[2021-03-23]
+
+[US20190182069A1](https://patents.google.com/patent/US20190182069A1) -
+Environment controller and method for inferring one or more commands for controlling an appliance taking into account room characteristics
+[2021-02-02]
+
+[US20190179270A1](https://patents.google.com/patent/US20190179270A1) -
+Inference server and environment controller for inferring one or more commands for controlling an appliance taking into account room characteristics
+[2021-01-19]
+
+[US20190179269A1](https://patents.google.com/patent/US20190179269A1) -
+Environment controller and method for inferring via a neural network one or more commands for controlling an appliance
+[2020-11-24]
+
+[US20190179268A1](https://patents.google.com/patent/US20190179268A1) -
+Inference server and environment controller for inferring via a neural network one or more commands for controlling an appliance
+[2020-11-17]
+
+[US20190115082A1](https://patents.google.com/patent/US20190115082A1) -
+Memory device comprising flash memory and method for controlling a write speed of a bus transmitting data for storage on the flash memory
+[2020-03-17]
+
+[US20170071015A1](https://patents.google.com/patent/US20170071015A1) -
+Environment control device providing a wi-fi hotspot for accessing the internet
+[2019-04-03]
+
+[CA2919102C](https://patents.google.com/patent/CA2919102C) -
+Environment control device (ecd) and method for configuring the ecd to operate a wi-fi communication interface
+[2018-10-02]
 
 #### Pending
 
