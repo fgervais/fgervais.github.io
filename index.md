@@ -15,17 +15,17 @@ contribute whenever I can.
 
 # Personal Projects
 
-Project | Description
---- | ---
-<a href="https://github.com/fgervais/leak-detector" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/leak-detector/master/assets/img/complete.jpg" width="200"> | Detect leaks and report through an alarm and a phone notification
-<a href="https://github.com/fgervais/detergent-dispenser" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/detergent-dispenser/master/assets/img/installed.jpeg" width="200"> | Dispense a specific amount of detergent
-<a href="https://github.com/fgervais/esp32-wrover-breakout" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/esp32-wrover-breakout/master/assets/img/M2/with_breadboard_adapter.jpeg" width="200"> | My take on an ESP32 module
-<a href="https://github.com/fgervais/project-adafruit-3309-adapter" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-adafruit-3309-adapter/master/assets/img/zh/blank.jpeg" width="200"> | Adafruit 3309 JST ZH Adapter
-<a href="https://github.com/fgervais/project-adafruit-3309-adapter#sh-version" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-adafruit-3309-adapter/master/assets/img/sh/overview.jpeg" width="200"> | Adafruit 3309 JST SH Adapter
-<a href="https://github.com/fgervais/project-julie-bed-lights" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-julie-bed-lights/master/assets/img/overview.jpg" width="200"> | RGB LED Controller
-<a href="https://github.com/fgervais/project-soic8-stemmaqt-mod" target="_blank"><img src="https://github.com/fgervais/project-soic8-stemmaqt-mod/raw/master/assets/img/IMG_0470.jpg" width="200"> | Stemma QT EEPROM Adapter<br><br>Featured at:<br><a href="https://blog.adafruit.com/2021/07/14/a-modchip-style-soic8-eeprom-to-stemma-qt-adapter-stemmaqt/" target="_blank">Adafruit</a><br><a href="https://blog.oshpark.com/2021/07/05/modchip-style-soic8-eeprom-to-stemma-qt-adapter/" target="_blank">OSH Park</a>
-<a href="https://github.com/fgervais/project-stemmaqt-ds2482" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-stemmaqt-ds2482/master/assets/img/IMG_0567.jpg" width="200"> | I²C to 1-Wire® STEMMA QT Adapter
-<a href="https://github.com/fgervais/project-smart-fridge" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-smart-fridge/master/assets/img/fridge.jpg" width="200"> | Beer Fridge
+Date | Project | Description
+--- | --- | ---
+10 Nov 2020 | <a href="https://github.com/fgervais/leak-detector" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/leak-detector/master/assets/img/complete.jpg" width="200"> | Detect leaks and report through an alarm and a phone notification
+30 Jan 2021 | <a href="https://github.com/fgervais/detergent-dispenser" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/detergent-dispenser/master/assets/img/installed.jpeg" width="200"> | Dispense a specific amount of detergent
+6 Apr 2021 | <a href="https://github.com/fgervais/esp32-wrover-breakout" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/esp32-wrover-breakout/master/assets/img/M2/with_breadboard_adapter.jpeg" width="200"> | My take on an ESP32 module
+31 Jan 2021 | <a href="https://github.com/fgervais/project-adafruit-3309-adapter" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-adafruit-3309-adapter/master/assets/img/zh/blank.jpeg" width="200"> | Adafruit 3309 JST ZH Adapter
+15 Mar 2021 | <a href="https://github.com/fgervais/project-adafruit-3309-adapter#sh-version" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-adafruit-3309-adapter/master/assets/img/sh/overview.jpeg" width="200"> | Adafruit 3309 JST SH Adapter
+18 May 2021 | <a href="https://github.com/fgervais/project-julie-bed-lights" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-julie-bed-lights/master/assets/img/overview.jpg" width="200"> | RGB LED Controller
+3 Jul 2021 | <a href="https://github.com/fgervais/project-soic8-stemmaqt-mod" target="_blank"><img src="https://github.com/fgervais/project-soic8-stemmaqt-mod/raw/master/assets/img/IMG_0470.jpg" width="200"> | Stemma QT EEPROM Adapter<br><br>Featured at:<br><a href="https://blog.adafruit.com/2021/07/14/a-modchip-style-soic8-eeprom-to-stemma-qt-adapter-stemmaqt/" target="_blank">Adafruit</a><br><a href="https://blog.oshpark.com/2021/07/05/modchip-style-soic8-eeprom-to-stemma-qt-adapter/" target="_blank">OSH Park</a>
+4 Oct 2021 | <a href="https://github.com/fgervais/project-stemmaqt-ds2482" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-stemmaqt-ds2482/master/assets/img/IMG_0567.jpg" width="200"> | I²C to 1-Wire® STEMMA QT Adapter
+28 Dec 2021 | <a href="https://github.com/fgervais/project-smart-fridge" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-smart-fridge/master/assets/img/fridge.jpg" width="200"> | Beer Fridge
 
 # Professional experience
 
