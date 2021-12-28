@@ -25,6 +25,7 @@ Project | Description
 <a href="https://github.com/fgervais/project-julie-bed-lights" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-julie-bed-lights/master/assets/img/overview.jpg" width="200"> | RGB LED Controller
 <a href="https://github.com/fgervais/project-soic8-stemmaqt-mod" target="_blank"><img src="https://github.com/fgervais/project-soic8-stemmaqt-mod/raw/master/assets/img/IMG_0470.jpg" width="200"> | Stemma QT EEPROM Adapter<br><br>Featured at:<br><a href="https://blog.adafruit.com/2021/07/14/a-modchip-style-soic8-eeprom-to-stemma-qt-adapter-stemmaqt/" target="_blank">Adafruit</a><br><a href="https://blog.oshpark.com/2021/07/05/modchip-style-soic8-eeprom-to-stemma-qt-adapter/" target="_blank">OSH Park</a>
 <a href="https://github.com/fgervais/project-stemmaqt-ds2482" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-stemmaqt-ds2482/master/assets/img/IMG_0567.jpg" width="200"> | I²C to 1-Wire® STEMMA QT Adapter
+<a href="https://github.com/fgervais/project-smart-fridge" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-smart-fridge/master/assets/img/fridge.jpg" width="200"> | Beer Fridge
 
 # Professional experience
 
