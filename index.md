@@ -79,6 +79,10 @@ As part of my work at Distech, I got involved in the following patents:
 
 #### Granted
 
+[US20190354877A1](https://patents.google.com/patent/US20190354877A1) -
+Method and environment controller for validating a predictive model of a neural network through interactions with the environment controller
+[filed: 2021-11-30]
+
 [US20200200423A1](https://patents.google.com/patent/US20200200423A1) -
 Computing device and method for inferring via a neural network a two-dimensional temperature mapping of an area
 [2021-08-03]
@@ -133,13 +137,7 @@ Training server and method for generating a predictive model for controlling an 
 Neural network combining visible and thermal images for inferring environmental data of an area of a building
 [filed: 2018-04-06]
 
-[US20190354877A1](https://patents.google.com/patent/US20190354877A1) -
-Method and environment controller for validating a predictive model of a neural network through interactions with the environment controller
-[filed: 2018-05-16]
 
-[US20190379470A1](https://patents.google.com/patent/US20190379470A1) -
-Computing device and method using a neural network to infer a predicted state of a communication channel
-[filed: 2018-06-08]
 
 [CA3022061A1](https://patents.google.com/patent/CA3022061A1) -
 Environment control device and method for inferring an optimal wireless data transfer rate using a neural network
@@ -184,6 +182,13 @@ Environment controller and methods for validating an estimated number of persons
 [US20210064968A1](https://patents.google.com/patent/US20210064968A1) -
 Training server and method for generating a predictive model of a neural network through distributed reinforcement learning
 [filed: 2019-11-27]
+
+#### Abandoned
+
+[US20190379470A1](https://patents.google.com/patent/US20190379470A1) -
+Computing device and method using a neural network to infer a predicted state of a communication channel
+[filed: 2018-06-08]
+
 
 ## [Brioconcept Consulting Inc.](https://brioconcept.com/)
 
