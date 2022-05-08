@@ -17,6 +17,7 @@ contribute whenever I can.
 
 Date | Project | Description
 --- | --- | ---
+8 May 2022 | <a href="https://github.com/fgervais/project-stemmaqt-AS7341" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-stemmaqt-AS7341/master/assets/img/IMG_0910.jpg" width="200"> | Spectral color sensor STEMMA QT
 24 Apr 2022 | <a href="https://github.com/fgervais/project-nrf-thread-switch" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-nrf-thread-switch/master/assets/img/assembled-white.jpg" width="200"> | Wireless button for Home Assistant
 28 Dec 2021 | <a href="https://github.com/fgervais/project-smart-fridge" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-smart-fridge/master/assets/img/fridge.jpg" width="200"> | Cold beer through hacking
 4 Oct 2021 | <a href="https://github.com/fgervais/project-stemmaqt-ds2482" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-stemmaqt-ds2482/master/assets/img/IMG_0567.jpg" width="200"> | I²C to 1-Wire® STEMMA QT Adapter
