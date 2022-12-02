@@ -27,7 +27,7 @@ Oct 2022 | <a href="https://github.com/fgervais/project-MS88SF3-breakout" target
 15 Mar 2021 | <a href="https://github.com/fgervais/project-adafruit-3309-adapter#sh-version" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-adafruit-3309-adapter/master/assets/img/sh/overview.jpeg" width="200"> | Adafruit 3309 JST SH Adapter
 31 Jan 2021 | <a href="https://github.com/fgervais/project-adafruit-3309-adapter" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-adafruit-3309-adapter/master/assets/img/zh/blank.jpeg" width="200"> | Adafruit 3309 JST ZH Adapter
 6 Apr 2021 | <a href="https://github.com/fgervais/esp32-wrover-breakout" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/esp32-wrover-breakout/master/assets/img/M2/with_breadboard_adapter.jpeg" width="200"> | My take on an ESP32 module
-30 Jan 2021 | <a href="https://github.com/fgervais/detergent-dispenser" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/detergent-dispenser/master/assets/img/installed.jpeg" width="200"> | Dispense a specific amount of detergent
+30 Jan 2021 | <a href="https://github.com/fgervais/detergent-dispenser" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/detergent-dispenser/master/assets/img/installed.jpeg" width="200"> | Dispense the perfect amount of detergent
 10 Nov 2020 | <a href="https://github.com/fgervais/leak-detector" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/leak-detector/master/assets/img/complete.jpg" width="200"> | Detect leaks and report through an alarm and a phone notification
 
 # Professional experience
