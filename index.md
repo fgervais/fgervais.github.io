@@ -17,6 +17,7 @@ contribute whenever I can.
 
 Date | Project | Description
 --- | --- | ---
+Dec 2022 | <a href="https://github.com/fgervais/project-mute-button" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-mute-button/master/assets/img/IMG_1380.jpg" width="200"> | Mute Yourself
 Dec 2022 | <a href="https://github.com/fgervais/project-stemmaqt-ISM330DHCX" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-stemmaqt-ISM330DHCX/master/assets/img/IMG_1368.jpg" width="200"> | ISM330DHCX STEMMA QT
 Oct 2022 | <a href="https://github.com/fgervais/project-MS88SF3-breakout" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-MS88SF3-breakout/master/assets/img/IMG_1139.JPG" width="200"> | MS88SF3 (nRF52840) Feather
 8 May 2022 | <a href="https://github.com/fgervais/project-stemmaqt-AS7341" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-stemmaqt-AS7341/master/assets/img/IMG_0910.jpg" width="200"> | Spectral color sensor STEMMA QT
