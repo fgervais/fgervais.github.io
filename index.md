@@ -17,6 +17,7 @@ contribute whenever I can.
 
 Date | Project | Description
 --- | --- | ---
+Mar 2023 | <a href="https://github.com/fgervais/project-nrf-leak-detector_hardware" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-nrf-leak-detector_hardware/master/assets/img/IMG_1487.jpg" width="200"> | Leak Detector - Rev3
 Dec 2022 | <a href="https://github.com/fgervais/project-mute-button" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-mute-button/master/assets/img/IMG_1380.jpg" width="200"> | Mute Yourself
 Dec 2022 | <a href="https://github.com/fgervais/project-stemmaqt-ISM330DHCX" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-stemmaqt-ISM330DHCX/master/assets/img/IMG_1368.jpg" width="200"> | ISM330DHCX STEMMA QT
 Oct 2022 | <a href="https://github.com/fgervais/project-MS88SF3-breakout" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-MS88SF3-breakout/master/assets/img/IMG_1139.JPG" width="200"> | MS88SF3 (nRF52840) Feather
