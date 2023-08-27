@@ -17,6 +17,7 @@ contribute whenever I can.
 
 Date | Project | Description
 --- | --- | ---
+Aug 2023 | <a href="https://github.com/fgervais/project-nrf-air-quality-station" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-nrf-air-quality-station/master/assets/img/overview.jpg" width="200"> | Air Quality Station for Home Assistant
 May 2023 | <a href="https://github.com/fgervais/project-nrf-ac-control" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-nrf-ac-control/master/assets/img/overview.jpg" width="200"> | Air Conditioning Adapter for Home Assistant
 Apr 2023 | <a href="https://github.com/fgervais/project-nrf-thread-switch" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-nrf-thread-switch/master/assets/img/assembled.jpg" width="200"> | Wireless button for Home Assistant - Rev2
 Mar 2023 | <a href="https://github.com/fgervais/project-nrf-leak-detector_hardware" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-nrf-leak-detector_hardware/master/assets/img/IMG_1487.jpg" width="200"> | Leak Detector - Rev3
