@@ -17,6 +17,7 @@ contribute whenever I can.
 
 Date | Project | Description
 --- | --- | ---
+Mar 2024 | <a href="https://github.com/fgervais/project-nrf-dishwasher-sign" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-nrf-dishwasher-sign/master/assets/img/overview.jpg" width="200"> | E-Paper Message Toggle Display
 Aug 2023 | <a href="https://github.com/fgervais/project-nrf-air-quality-station" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-nrf-air-quality-station/master/assets/img/overview.jpg" width="200"> | Air Quality Station for Home Assistant
 May 2023 | <a href="https://github.com/fgervais/project-nrf-ac-control" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-nrf-ac-control/master/assets/img/overview.jpg" width="200"> | Air Conditioning Adapter for Home Assistant
 Apr 2023 | <a href="https://github.com/fgervais/project-nrf-thread-switch" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-nrf-thread-switch/master/assets/img/assembled.jpg" width="200"> | Wireless button for Home Assistant - Rev2
