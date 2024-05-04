@@ -17,6 +17,7 @@ contribute whenever I can.
 
 Date | Project | Description
 --- | --- | ---
+May 2024 | <a href="https://github.com/fgervais/project-tmp117_hardware" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-tmp117_hardware/master/assets/img/overview.jpg" width="200"> | TMP117 Temperature Sensor Adapter
 Mar 2024 | <a href="https://github.com/fgervais/project-nrf-dishwasher-sign" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-nrf-dishwasher-sign/master/assets/img/overview.jpg" width="200"> | E-Paper Message Toggle Display
 Aug 2023 | <a href="https://github.com/fgervais/project-nrf-air-quality-station" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-nrf-air-quality-station/master/assets/img/overview.jpg" width="200"> | Air Quality Station for Home Assistant
 May 2023 | <a href="https://github.com/fgervais/project-nrf-ac-control" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-nrf-ac-control/master/assets/img/overview.jpg" width="200"> | Air Conditioning Adapter for Home Assistant
