@@ -148,10 +148,6 @@ Environment controller and method for inferring via a neural network one or more
 Inference server and environment controller for inferring via a neural network one or more commands for controlling an appliance
 [2020-11-17]
 
-[US10453327B2](https://patents.google.com/patent/US10453327B2) -
-Apparatus and methods for geolocating an individual with respect to a perimeter
-[2019-10-22]
-
 [US20170071015A1](https://patents.google.com/patent/US20170071015A1) -
 Environment control device providing a wi-fi hotspot for accessing the internet
 [2018-09-04]
@@ -239,10 +235,9 @@ user would control his watch.
 
 ### Patents
 
-As part of my work at Brioconcept, I got involved in the following patent:
-
-[CA2848937C](https://patents.google.com/patent/CA2848937C) -
+[US10453327B2](https://patents.google.com/patent/US10453327B2) -
 Apparatus and methods for geolocating an individual with respect to a perimeter
+[2019-10-22]
 
 ### [Kontron Canada Inc.](https://www.kontron.com/)
 
