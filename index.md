@@ -64,16 +64,14 @@ Distech Eclypse line of products FIPS 140-2 certification:
 
 - ath9k-htc open firmware:
 [ath9k-htc](https://github.com/qca/open-ath9k-htc-firmware/commit/97217c1250772c3c6dbba8b00bab70df6dbd22da#diff-d89a76e909ac97f43228c098ed8facb3)
-
 - musb: 
-[musb](https://www.spinics.net/lists/linux-usb/msg162253.html).
+[musb](https://www.spinics.net/lists/linux-usb/msg162253.html)
 
 #### Errata
 
-Microchip USB2412 USB hub:
+- Microchip USB2412 USB hub:
 [Detach detection failure](/assets/pdf/USB2412-Errata-DS80000824A.pdf)
-
-Microchip/Micrel KSZ8863 Ethernet switch:
+- Microchip/Micrel KSZ8863 Ethernet switch:
 [Receiver error in 100BASE-TX mode following Soft Power Down](/assets/pdf/KSZ8863-Errata-DS80000829A.pdf)
 
 ### Patents (Updated July 31, 2024)
