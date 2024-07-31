@@ -10,9 +10,6 @@ source projects which can be found here:
 * [Pull Requests](https://github.com/search?q=is%3Apr+author%3Afgervais) (GitHub)
 * [Open Hub](https://www.openhub.net/accounts/fgervais)
 
-I think open source software is a win for everybody and so I'm trying to
-contribute whenever I can. 
-
 # Personal Projects
 
 Date | Project | Description
@@ -59,34 +56,27 @@ On these products, I've been involved in quite a few things including:
 * Automated builds
 
 ### FIPS 140-2
-On the Eclypse product, we had to get the FIPS 140-2 certification which I
-participated in getting: 
+Distech Eclypse line of products FIPS 140-2 certification: 
 [3106](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/3106),
 [3046](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/3046)
 
-### Noteworthy Bugs
+### Noteworthy Patches
 
-As part of my work I got to debug some pretty
-[interresting](https://github.com/qca/open-ath9k-htc-firmware/commit/97217c1250772c3c6dbba8b00bab70df6dbd22da#diff-d89a76e909ac97f43228c098ed8facb3)
-[problems](https://www.spinics.net/lists/linux-usb/msg162253.html).
+- ath9k-htc open firmware:
+[ath9k-htc](https://github.com/qca/open-ath9k-htc-firmware/commit/97217c1250772c3c6dbba8b00bab70df6dbd22da#diff-d89a76e909ac97f43228c098ed8facb3)
+
+- musb: 
+[musb](https://www.spinics.net/lists/linux-usb/msg162253.html).
 
 #### Errata
 
-Along with a co-worker, we got to the bottom of two ASIC issues.
-
-First with the Microchip USB2412 USB hub:
+Microchip USB2412 USB hub:
 [Detach detection failure](/assets/pdf/USB2412-Errata-DS80000824A.pdf)
 
-Then with the Microchip/Micrel KSZ8863 Ethernet switch:
+Microchip/Micrel KSZ8863 Ethernet switch:
 [Receiver error in 100BASE-TX mode following Soft Power Down](/assets/pdf/KSZ8863-Errata-DS80000829A.pdf)
 
-Those were quite interesting ones. You can imagine what a company tells you when
-you are trying to tell them there is a bug with a long running chip sold by the
-millions. Lets just say it took a while.
-
 ### Patents (Updated July 31, 2024)
-
-As part of my work at Distech, I got involved in the following patents:
 
 #### Granted
 
