@@ -43,7 +43,7 @@ Oct 2022 | <a href="https://github.com/fgervais/project-MS88SF3-breakout/tree/de
 Distech is a company that specialises in making HVAC products.
 
 As part of my daily work, I got to work on a couple Linux and Android based products,
-[Apex](https://www.distech-controls.com/en/eclypse),
+[Apex](https://www.distech-controls.com/products/detail/947888/distech-controls/eclypse-apex),
 [Eclypse](https://www.distech-controls.com/products/detail/947828/distech-controls/eclypse-connected-system-controller---ecy-csc-series) and 
 [Horyzon-C](http://www.distech-controls.com/en/ca/products/displays/).
 
