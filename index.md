@@ -14,6 +14,7 @@ source projects which can be found here:
 
 Date | Project | Description
 --- | --- | ---
+Jan 2025 | <a href="https://github.com/fgervais/project-ap63300-module" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-ap63300-module/refs/heads/master/assets/img/overview.jpg" width="200"> | General purpose DC/DC converter
 May 2024 | <a href="https://github.com/fgervais/project-tmp117_hardware" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-tmp117_hardware/master/assets/img/overview.jpg" width="200"> | TMP117 Temperature Sensor Adapter
 Mar 2024 | <a href="https://github.com/fgervais/project-nrf-dishwasher-sign" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-nrf-dishwasher-sign/master/assets/img/overview.jpg" width="200"> | E-Paper Message Toggle Display
 Aug 2023 | <a href="https://github.com/fgervais/project-nrf-air-quality-station" target="_blank"><img src="https://raw.githubusercontent.com/fgervais/project-nrf-air-quality-station/master/assets/img/overview.jpg" width="200"> | Air Quality Station for Home Assistant
